@@ -8,11 +8,11 @@ It's all JavaScript for now, which is either a superpower or a coping mechanism,
 ---
 
 ## Where to find me
-
 - 🌐 [Portfolio](https://portfolio-six-chi-kmc4bfrxcz.vercel.app)
 - 💼 [LinkedIn](https://linkedin.com/in/sahil-tiwari-dev)
 - 📸 [Instagram](https://instagram.com/sahiltiwari.official)
-- 📌 [Pinterest](https://pin.it/3qZTuPaDz)
+- 📌 [Pinterest](https://in.pinterest.com/sahil_creates/)
+- 🐦 [X (Twitter)](https://x.com/Sahil_Creates)
 
 ---
 
