@@ -1,6 +1,6 @@
 # Hey, I'm Sahil 👋
 
-I speak JavaScript, build things that barely work, and document the process that nobody reads.
+I speak JavaScript, build things that somehow work, and document the results that nobody reads.
 
 Currently heads down on a few projects — they'll show up when they're ready to be seen.
 It's all JavaScript for now, which is either a superpower or a coping mechanism, depending on the day.
